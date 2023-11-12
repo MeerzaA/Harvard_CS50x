@@ -1,0 +1,37 @@
+
+
+For github break up the repo into the different weeks.
+
+Create a tabel in the readme for the main assignments from each week, and makre sure to score 100 on every one.
+
+Make sure to link your cert in the readme of the course once done with the course, also make sure to do this for all your online courses
+
+Also include the cert in the main page of the repo. Include the academic honesty policy in the read me of the repo
+
+
+---FOLDERS ---
+
+Include the duck in the discription
+
+Grab the course intro for the readme, heading 
+
+Go to grade book for CS50 and include the screen shot in your repo some where
+
+Syllabus - includ in Readme
+
+Include a direct link to the course in the readme, where it says Harvard CS50
+do this for all of your courses.
+
+Lecture - includes your own notes written in OneNotes, also include the notes from the class in its own file, also make sure to link to the notes page on the harvard website. Download the notes page into OneNote, and use that to write over the notes as you follow the lecture. 
+
+Shorts - include your notes of the shorts section of the teaching each week here, and also indule the shorts them selves here.
+
+Lecture Video - add harvards lecture video in 4k to this file 
+
+Include the slides in this folder also
+
+Problem Set 0 - This is where you store your prompt for the questions and also where you put your work, make sure to link your work directly in the readMe table you are going to build.  
+
+Pratice problems - include your pratice problems here and also include the problems them selves
+
+Lab - include the lab answers and the lab video here
